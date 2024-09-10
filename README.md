@@ -13,3 +13,7 @@ Requirement
 - Simulate 20 customers.
 - Simulate for 3 hours.
 - Use MS Excel’s Data Table to generate 50 replications of the simulation.
+
+Simulation Overview for 50 replications
+![Customer time in System plot](./avg_customer_time_plot.png)
+![Time server is idle](./time_idle_plot.png)
